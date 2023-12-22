@@ -29,4 +29,3 @@ const randomColor = function () {
   
   const stopBtn = document.querySelector('#stop');
   stopBtn.addEventListener('click', stopChangingColor);
-  
